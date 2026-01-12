@@ -8,4 +8,7 @@
   <Project Path="Tyuiu.kkhalid.Sprint3.Task5.V9.Lib/Tyuiu.kkhalid.Sprint3.Task5.V9.Lib.csproj" />
   <Project Path="Tyuiu.kkhalid.Sprint3.Task5.V9.Test/Tyuiu.kkhalid.Sprint3.Task5.V9.Test.csproj" />
   <Project Path="Tyuiu.kkhalid.Sprint3.Task5.V9/Tyuiu.kkhalid.Sprint3.Task5.V9.csproj" />
+  <Project Path="Tyuiu.kkhalid.Sprint3.Task6.V2.Lib/Tyuiu.kkhalid.Sprint3.Task6.V2.Lib.csproj" />
+  <Project Path="Tyuiu.kkhalid.Sprint3.Task6.V2.Test/Tyuiu.kkhalid.Sprint3.Task6.V2.Test.csproj" />
+  <Project Path="Tyuiu.kkhalid.Sprint3.Task6.V2/Tyuiu.kkhalid.Sprint3.Task6.V2.csproj" />
 </Solution>
